@@ -4,9 +4,9 @@
 # [Data Source in Looker Studio](https://learn.udacity.com/paid-courses/cd13725/lessons/281a7374-e9c0-4f80-b6f5-eba5be52dbea/concepts/281a7374-e9c0-4f80-b6f5-eba5be52dbea-project-rubric?program_version=construction&program_locale=en-us&lesson_tab=lesson)
 
 .
-## ما هي بيانات Google Analytics 4
+## ما هي بيانات Google Analytics 4  (GA4)
 
-**Google Analytics 4 (GA4)** هو الإصدار الأحدث من منصة تحليلات الويب الخاصة بـ Google، وهو يمثل نقلة نوعية مقارنة بالإصدارات السابقة مثل **Universal Analytics**. GA4 يقدم أدوات وتحليلات أكثر تطورًا لقياس تفاعل المستخدمين عبر مواقع الويب والتطبيقات، مما يساعد الشركات في فهم سلوك العملاء بعمق وتحسين تجربة المستخدم. إليك تفاصيل ما تقدمه بيانات **Google Analytics 4**:
+هو الإصدار الأحدث من منصة تحليلات الويب الخاصة بـ Google، وهو يمثل نقلة نوعية مقارنة بالإصدارات السابقة مثل **Universal Analytics**. GA4 يقدم أدوات وتحليلات أكثر تطورًا لقياس تفاعل المستخدمين عبر مواقع الويب والتطبيقات، مما يساعد الشركات في فهم سلوك العملاء بعمق وتحسين تجربة المستخدم. إليك تفاصيل ما تقدمه بيانات **Google Analytics 4**:
 
 ### أهم البيانات التي يوفرها **Google Analytics 4**:
 
